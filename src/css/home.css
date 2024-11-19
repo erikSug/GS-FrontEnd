@@ -134,7 +134,7 @@ body {
 
 .section__image {
     display: block; 
-    max-width: 100%; 
+    max-width: 50%; 
     height: auto; 
     margin: 1.5rem auto; 
     border-radius: 0.5rem;
